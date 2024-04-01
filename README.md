@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hello
+
+## Introduction
+  Name     : 권혁준 / Kwon Hyeok Jun
+  Nickname : Sephior
+
+## Career
+
+
+## Contact
+  Email : k97209735@gmail.com
+
 
 <!--
 **Sephior/Sephior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
