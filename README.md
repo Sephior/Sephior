@@ -1,10 +1,11 @@
 # Hello
 
 ## Introduction
-  Name     : 권혁준 / Kwon Hyeok Jun
+  Name     : 권혁준 / Kwon Hyeok Jun\n
   Nickname : Sephior
 
 ## Career
+  University Club [AIng] executive
 
 
 ## Contact
