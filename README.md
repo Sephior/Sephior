@@ -1,7 +1,7 @@
 # Hello
 
 ## Introduction
-  Name     : 권혁준 / Kwon Hyeok Jun<\n>
+  Name     : 권혁준 / Kwon Hyeok Jun<br/>
   Nickname : Sephior
 
 ## Career
